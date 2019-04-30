@@ -20,3 +20,4 @@ setTimeout(function() {
   screen.classList.remove('page')
 }, 1400)
 }
+// same as on the index
