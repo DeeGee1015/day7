@@ -1,0 +1,27 @@
+body {
+  font-family
+}
+
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+@keyframes pageSlide {
+  from {
+    position: relative;
+    left: 70%;
+  }
+
+to {
+  position: relative;
+  left: 0;
+  transform:  rotateY(0deg);
+}
+}
